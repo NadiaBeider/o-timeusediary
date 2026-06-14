@@ -61,6 +61,8 @@ class I18n {
      */
     updateHtmlLang(language) {
         document.documentElement.lang = language;
+        const rtlLanguages = ['he', 'ar', 'fa', 'ur'];
+        document.documentElement.dir = rtlLanguages.includes(language) ? 'rtl' : 'ltr';
     }
 
     /**
