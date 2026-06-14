@@ -60,9 +60,7 @@ class I18n {
      * @param {string} language - Language code
      */
     updateHtmlLang(language) {
-        document.documentElement.lang = language;
-        const rtlLanguages = ['he', 'ar', 'fa', 'ur'];
-        document.documentElement.dir = rtlLanguages.includes(language) ? 'rtl' : 'ltr';
+    document.documentElement.lang = language;
     }
 
     /**
