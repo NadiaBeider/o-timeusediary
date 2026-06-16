@@ -48,7 +48,7 @@
     },
     "childItems": {
       "title": "בחרו אפשרות",
-      "titleFor": "בחרו אפשרות עבור \"{activityName}\" "
+      "titleFor": "בחרו אפשרות עבור ״{activityName}״"
     },
     "confirmSubmit": {
       "title": "?האם את/ה בטוח/ה",
