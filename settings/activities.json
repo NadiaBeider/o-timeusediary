@@ -1,9 +1,9 @@
 {
   "general": {
-    "experimentID": "eR8ENvJPgQth",
+    "experimentID": "pMVh67WRJ0PF",
     "app_name": "O-TUD",
     "version": "1.0.0",
-    "author": "John Doe",
+    "author": "Nadia Beider",
     "language": "he",
     "instructions": true,
     "primary_redirect_url": "pages/thank-you.html",
